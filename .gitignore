@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.log
+.test-output/
+backups/

@@ -1,0 +1,14 @@
+﻿{
+    "activationShortcut":  {
+                               "HasConflict":  false,
+                               "ConflictDescription":  "",
+                               "IsSystemConflict":  false,
+                               "win":  false,
+                               "ctrl":  true,
+                               "alt":  false,
+                               "shift":  false,
+                               "code":  32,
+                               "key":  ""
+                           },
+    "useCentralizedKeyboardHook":  false
+}
